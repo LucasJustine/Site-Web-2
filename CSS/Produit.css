@@ -1,0 +1,9 @@
+
+@media screen and (min-width: 600px) {
+    .produit {
+        margin-left: 25%;   
+    }
+    .filtre{ 
+        height:100%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto
+    }
+  }
